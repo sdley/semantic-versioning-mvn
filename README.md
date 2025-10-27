@@ -1,5 +1,7 @@
 # ☕ Atelier Pratique – Semantic Versioning avec Maven
 
+[See English version (README.en.md)](README.en.md)
+
 ## Objectif
 
 Appliquer le SemVer à un projet Java/Maven, créer des versions pré-stables et publier des tags/releases sur GitHub. Le dossier `maven-project` contient un mini-projet Maven prêt à l'emploi.
