@@ -94,7 +94,7 @@ Note : certains outils Maven peuvent refuser certaines métadonnées ; utilisez-
 
 Pousser les tags et créer une release depuis GitHub (comme pour npm). Inclure changelog et notes.
 
-## 7️⃣ Commandes utiles pour la démo live
+## 7️⃣ Commandes utiles
 
 ```bash
 mvn -v
@@ -107,7 +107,3 @@ mvn versions:display-dependency-updates
 - `pom.xml` mis à jour selon SemVer
 - Tags Git visibles sur GitHub
 - Release GitHub documentée
-
-## Script de démonstration (optionnel)
-
-Un script `demo-maven.sh` est inclus pour automatiser les étapes de version bump et création de tag (à exécuter localement).
